@@ -3,12 +3,11 @@
 using namespace std;
 int main()
 {
-    setlocale(LC_ALL, "Rus");
     srand(time(0));
     int n, k;
-    cout << " ¬ведите n: ";
+    cout << "Number of lines   ";
     cin >> n;
-    cout << " ¬ведите k: ";
+    cout << "Numder of columns  ";
     cin >> k;
     int** dynamicArray = new int* [n];
     for (int i = 0; i < n; i++) {
@@ -23,5 +22,4 @@ int main()
         }
         cout << endl;
     }
-    return 0;
 }
