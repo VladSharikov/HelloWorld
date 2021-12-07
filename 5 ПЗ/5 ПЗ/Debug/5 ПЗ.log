@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\sharikov vladislav\Documents\GitHub\HelloWorld\5 ПЗ\5 ПЗ\Source.cpp(85,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\sharikov vladislav\Documents\GitHub\HelloWorld\5 ПЗ\5 ПЗ\Source.cpp(104,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sharikov vladislav\Documents\GitHub\HelloWorld\5 ПЗ\5 ПЗ\Source.cpp(116,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  5 ПЗ.vcxproj -> C:\Users\sharikov vladislav\Documents\GitHub\HelloWorld\5 ПЗ\Debug\5 ПЗ.exe
